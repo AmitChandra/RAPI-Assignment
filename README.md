@@ -47,3 +47,5 @@ It uses a technology called SSL/TLS (Secure Sockets Layer / Transport Layer Secu
 
 - HTTP: http://example.com — not secure
 - HTTPS: https://example.com — secure (with encryption)
+
+### Tip: Press Ctrl+Shift+V (Windowa + Linux) or Cmd+Shift+V (mac) to open the file in preview mode on vs code
